@@ -1,4 +1,4 @@
-# Insurance Claim EDA Project
+# Heath Insurance Claim EDA Project
 # About
 - This project is an Exploratory Data Analysis (EDA) project on an Insurance Claim dataset. The dataset contains information about insurance policyholders, including their demographics, medical history, and details about their insurance claims.
 - The goal of this project is to perform exploratory data analysis to gain insights into the factors influencing insurance claims, identify patterns and trends, and visualize the data to communicate findings effectively.
